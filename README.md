@@ -8,3 +8,5 @@ Learning Firebase
 - Redux Thunk
 - Firebase
 - Dotenv
+- React-Redux-Firebase
+- Redux-Firestore
