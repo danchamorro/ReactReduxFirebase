@@ -6,3 +6,5 @@ Learning Firebase
 - React Router
 - Redux
 - Redux Thunk
+- Firebase
+- Dotenv
