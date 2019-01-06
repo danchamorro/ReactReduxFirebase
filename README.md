@@ -4,3 +4,4 @@ Learning Firebase
 
 - Materialize
 - React Router
+- Redux
